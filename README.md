@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 👩‍🏫. I love to know more about how people can best learn, so I did a Master of Teaching degree, interning in Bendigo, Victoria for two years (2020-2021).
 - 💻. My interest for programming grew and grew when I tried lots of ICT tools to teach my students - Wow, how do they make this? How can I make this? How could I improve this? 
 - ☕. So I started learning Java (my first programming language) in 2022. 
-- 🧗‍♀️. This is why I am here, embarking on a exciting journey to learn how to code!!
+- 🧗‍♀️. This is why I am here, embarking on an exciting journey to learn how to code!!
+- 📗. I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
