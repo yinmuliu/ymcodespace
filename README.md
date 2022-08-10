@@ -13,15 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, I'm Yinmu Liu (刘殷沐)
+## Hi there 👋
+- 😄 I'm Yinmu! 
+- 🌱 I’m currently learning full-stack software engineering course at General Assembly
+- 🎓 I am a teacher for 6+ years, My interest for programming grew and grew when I tried lots of ICT tools to teach my students - Wow, how do they make this? How can I make this? How could I improve this? 
+- 💻 This is why I am here, embarking on an exciting journey to learn how to code!!
+- 📗 I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
+- 💬 Ask me about everything you want!
 
-### A little bit about me
-- 🇨🇳. I was born and raised in China.
-- 🇦🇺. I arrived in Melbourne in 2013. I have lived here for nearly a decade, time flies! 
-- 🌐. I speak Mandarin at home and English at work. I learnt Japanese and French for fun and still at beginner's level, hope to find someone to practice!
-- 🎓. I have a Bachelor's degree in Anthropology and Linguistics. Learning different cultures and languages is great fun!
-- 👩‍🏫. I love to know more about how people can best learn, so I did a Master of Teaching degree, interning in Bendigo, Victoria for two years (2020-2021).
-- 💻. My interest for programming grew and grew when I tried lots of ICT tools to teach my students - Wow, how do they make this? How can I make this? How could I improve this? 
-- ☕. So I started learning Java (my first programming language) in 2022. 
-- 🧗‍♀️. This is why I am here, embarking on an exciting journey to learn how to code!!
-- 📗. I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
+### Check my project 😊
+
+React + Node.js + Express + MongoDB + Heroku + Cloudinary + Material UI
+
+💚 A group project for a Travel Log app: https://github.com/ymcodespace/Team-Project-1
+<br>
+<br>
+EJS + Bootstrap + Node.js + Express + MongoDB + Heroku + Cloudinary
+
+💛 A recipe-sharing app to share quick, easy and delicious recipes: https://github.com/ymcodespace/sharing-recipe-web-app
+<br>
+<br>
+html + css + javascript + DOM
+
+💜 Tic-Tac-Toe game: https://github.com/ymcodespace/Tic-Tac-Toe
+
+......
+
+💭 More is coming soon! 💭
