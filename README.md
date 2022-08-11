@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 - 📗 I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
 - 💬 Ask me about everything you want!
 
-### Check my project 😊
+### Check my projects 😊
 
-React + Node.js + Express + MongoDB + Heroku + Cloudinary + Material UI
+<strong><em>React + Node.js + Express + MongoDB + Heroku + Cloudinary + Material UI</em></strong>
 
 💚 A group project for a Travel Log app: https://github.com/ymcodespace/Team-Project-1
 <br>
 <br>
-EJS + Bootstrap + Node.js + Express + MongoDB + Heroku + Cloudinary
+<strong><em>EJS + Bootstrap + Node.js + Express + MongoDB + Heroku + Cloudinary</em></strong>
 
 💛 A recipe-sharing app to share quick, easy and delicious recipes: https://github.com/ymcodespace/sharing-recipe-web-app
 <br>
 <br>
-html + css + javascript + DOM
+<strong><em>html + css + javascript + DOM</em></strong>
 
 💜 Tic-Tac-Toe game: https://github.com/ymcodespace/Tic-Tac-Toe
 
