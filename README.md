@@ -23,16 +23,24 @@ Here are some ideas to get you started:
 
 ### Check my projects 😊
 
-<strong><em>React + Node.js + Express + MongoDB + Heroku + Cloudinary + Material UI</em></strong>
+<strong><em>React.js + Leaflet.js (Map API) + Python + Flask + Postgres (Under construction)</em></strong>
+
+:heart: A web app allowing users to locate Indigenous Languages and share sound clips of their auditory experience on the land: https://github.com/ymcodespace/dadirri-web-app
+<br>
+<br>
+
+<strong><em>React.js + Node.js + Express + MongoDB + Heroku + Cloudinary + Material UI</em></strong>
 
 💚 A group project for a Travel Log app: https://github.com/ymcodespace/Team-Project-1
 <br>
 <br>
-<strong><em>EJS + Bootstrap + Node.js + Express + MongoDB + Heroku + Cloudinary</em></strong>
+
+<strong><em>EJS + Bootstrap + DOM + Node.js + Express + MongoDB + Heroku + Cloudinary</em></strong>
 
 💛 A recipe-sharing app to share quick, easy and delicious recipes: https://github.com/ymcodespace/sharing-recipe-web-app
 <br>
 <br>
+
 <strong><em>html + css + javascript + DOM</em></strong>
 
 💜 Tic-Tac-Toe game: https://github.com/ymcodespace/Tic-Tac-Toe
