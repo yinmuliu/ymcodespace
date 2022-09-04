@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 - 😄 I'm Yinmu! 
-- 🌱 I’m currently learning full-stack software engineering course at General Assembly
+- 🌱 I just completed a Full-stack Software Engineering course at General Assembly this September!
 - 🎓 I am a teacher for 6+ years, My interest for programming grew and grew when I tried lots of ICT tools to teach my students - Wow, how do they make this? How can I make this? How could I improve this? 
 - 💻 This is why I am here, embarking on an exciting journey to learn how to code!!
 - 📗 I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
 - 💬 Ask me anything! Feel free to message me @ Linkedin: https://www.linkedin.com/in/yinmu-liu/
 
-### Check my projects 😊
+### Check out my projects 😊
 
 <strong><em>React.js + Leaflet.js (Map API) + Python + Flask + Postgres (Under construction)</em></strong>
 
