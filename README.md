@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 I am a teacher for 6+ years, My interest for programming grew and grew when I tried lots of ICT tools to teach my students - Wow, how do they make this? How can I make this? How could I improve this? 
 - 💻 This is why I am here, embarking on an exciting journey to learn how to code!!
 - 📗 I am updating my learning notes here @ Medium blog: https://medium.com/@yinmu.liu
-- 💬 Ask me about everything you want!
+- 💬 Ask me anything! Feel free to message me @ Linkedin: https://www.linkedin.com/in/yinmu-liu/
 
 ### Check my projects 😊
 
