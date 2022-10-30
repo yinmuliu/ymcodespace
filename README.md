@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Check out my projects 😊
 
-<strong><em>React.js + Leaflet.js (Map API) + Python + Flask + Postgres (Under construction)</em></strong>
+<strong><em>React.js + Leaflet.js (Map API) + Python + Flask + Postgres</em></strong>
 
 :heart: A web app allowing users to locate Indigenous Languages and share sound clips of their auditory experience on the land: https://github.com/ymcodespace/dadirri-web-app
 <br>
